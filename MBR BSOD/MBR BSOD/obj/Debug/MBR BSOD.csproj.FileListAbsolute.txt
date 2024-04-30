@@ -1,0 +1,7 @@
+D:\c#\MBR BSOD\MBR BSOD\bin\Debug\MBR BSOD.exe.config
+D:\c#\MBR BSOD\MBR BSOD\bin\Debug\MBR BSOD.exe
+D:\c#\MBR BSOD\MBR BSOD\bin\Debug\MBR BSOD.pdb
+D:\c#\MBR BSOD\MBR BSOD\obj\Debug\MBR BSOD.csproj.AssemblyReference.cache
+D:\c#\MBR BSOD\MBR BSOD\obj\Debug\MBR BSOD.csproj.CoreCompileInputs.cache
+D:\c#\MBR BSOD\MBR BSOD\obj\Debug\MBR BSOD.exe
+D:\c#\MBR BSOD\MBR BSOD\obj\Debug\MBR BSOD.pdb
